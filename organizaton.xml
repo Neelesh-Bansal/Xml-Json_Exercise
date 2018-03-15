@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<Organization>
+    <employee id="0092">
+        <name>neelesh</name>
+        <age>21</age>
+        <salary>15100</salary>
+        <email>neelesh.bansal@tothenew.com</email>
+        <occupation>jvm trainee</occupation>
+    </employee>
+    <employee id="0081">
+        <name>suraj</name>
+        <age>24</age>
+        <salary>28100</salary>
+        <email>suraj.gupta@tothenew.com</email>
+        <occupation>software developer</occupation>
+    </employee>
+    <employee id="0054">
+        <name>jatin</name>
+        <age>22</age>
+        <salary>15100</salary>
+        <email>jatin.ttn@tothenew.com</email>
+        <occupation>jvm trainee</occupation>
+    </employee>
+    <employee id="0097">
+        <name>rajesh</name>
+        <age>28</age>
+        <salary>35100</salary>
+        <email>rajesh.jain@tothenew.com</email>
+        <occupation>senior software developer</occupation>
+    </employee>
+    <employee id="0021">
+        <name>Udit</name>
+        <age>25</age>
+        <salary>30100</salary>
+        <email>udit.ttn@tothenew.com</email>
+        <occupation>Android Application developer</occupation>
+    </employee>
+</Organization>

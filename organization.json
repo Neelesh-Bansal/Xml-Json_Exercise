@@ -1,0 +1,32 @@
+{
+  "Employees":
+  [
+    {
+      "id": "0056",
+      "name": "Neelesh Bansal",
+      "age" :"21",
+      "salary": "15100",
+      "email" : "neelesh.bansal@tothenew.com",
+      "address":{"city":"Bulandshahr","state":"UP"}
+    } ,
+
+    {
+      "id": "0068",
+      "name": "Ankit Gupta",
+      "age" :"25",
+      "salary": "15100",
+      "email" : "ankit.gupta@tothenew.com",
+      "address":{"city":"new delhi","state":"Delhi"}
+    },
+
+    {
+      "id": "0012",
+      "name": "Harsh singh",
+      "age" :"28",
+      "salary": "32000",
+      "email" : "harsh.singh@tothenew.com",
+      "address":{"city":"Gurugram","state":"Haryana"}
+    }
+
+  ]
+}
